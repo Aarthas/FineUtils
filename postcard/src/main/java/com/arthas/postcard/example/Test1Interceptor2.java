@@ -2,6 +2,10 @@ package com.arthas.postcard.example;
 
 import android.content.Context;
 
+import com.arthas.postcard.IInterceptor;
+import com.arthas.postcard.InterceptorCallback;
+import com.arthas.postcard.Postcard;
+
 /**
  * TODO feature
  *

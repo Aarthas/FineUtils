@@ -5,8 +5,10 @@ public abstract class Interceptor<T> implements IInterceptor {
 
     }
 
+    @Override
     public void process(Postcard postcard, InterceptorCallback callback) {
-        process(postcard, postcard.getData(), callback);
+        process(postcard, (T) postcard.getData(), callback);
+
     }
 
     public abstract void process(Postcard postcard, T data, InterceptorCallback callback);

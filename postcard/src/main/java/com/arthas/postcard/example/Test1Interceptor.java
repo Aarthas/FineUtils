@@ -4,6 +4,10 @@ import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 
+import com.arthas.postcard.IInterceptor;
+import com.arthas.postcard.InterceptorCallback;
+import com.arthas.postcard.Postcard;
+
 /**
  * TODO feature
  *
