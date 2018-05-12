@@ -1,2 +1,2 @@
-include ':app', ':quickadapter', ':fineevent', ':finefragment', ':fine_log', ':postcard'
+include ':app', ':quickadapter', ':fineevent', ':finefragment', ':fine_log', ':postcard', ':fine_logic'
 include ':quickwidget'

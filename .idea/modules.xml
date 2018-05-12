@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/QuickAdapter.iml" filepath="$PROJECT_DIR$/QuickAdapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/fine_log/fine_log.iml" filepath="$PROJECT_DIR$/fine_log/fine_log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fine_logic/fine_logic.iml" filepath="$PROJECT_DIR$/fine_logic/fine_logic.iml" />
       <module fileurl="file://$PROJECT_DIR$/fineevent/fineevent.iml" filepath="$PROJECT_DIR$/fineevent/fineevent.iml" />
       <module fileurl="file://$PROJECT_DIR$/finefragment/finefragment.iml" filepath="$PROJECT_DIR$/finefragment/finefragment.iml" />
       <module fileurl="file://$PROJECT_DIR$/postcard/postcard.iml" filepath="$PROJECT_DIR$/postcard/postcard.iml" />
