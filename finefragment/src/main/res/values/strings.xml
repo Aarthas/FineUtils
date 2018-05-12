@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">finefragment</string>
+    <item name="mainView" type="id"/>
+
+</resources>

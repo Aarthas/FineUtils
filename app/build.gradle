@@ -26,5 +26,7 @@ dependencies {
     compile 'com.android.support:support-v4:25.3.1'
     compile project(':quickadapter')
     compile project(':quickwidget')
-    compile project(':fineevent')
+    //    compile project(':fineevent')
+    compile 'com.github.Aarthas.FineUtils:fineevent:1.3'
+    compile project(':finefragment')
 }

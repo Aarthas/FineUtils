@@ -8,6 +8,8 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.arthas.fineevent.FineEvent;
+
 public class MainActivity extends AppCompatActivity
 {
 
@@ -16,8 +18,8 @@ public class MainActivity extends AppCompatActivity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
+
+
 
 
     }
